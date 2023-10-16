@@ -1,0 +1,164 @@
+{"level":"info","message":"Starting assets export"}
+{"level":"info","message":"No assets found"}
+{"level":"info","message":"Starting locale export"}
+{"level":"info","message":"Completed locale export"}
+{"level":"info","message":"Starting environment export"}
+{"level":"info","message":"All the environments have been exported successfully"}
+{"level":"info","message":"Starting extension export"}
+{"level":"info","message":"All the extensions have been exported successfully"}
+{"level":"info","message":"Starting webhooks export"}
+{"level":"info","message":"No webhooks found"}
+{"level":"info","message":"Starting Global Fields export"}
+{"level":"info","message":"Global Fields export completed successfully"}
+{"level":"info","message":"Starting content type export"}
+{"level":"info","message":"Content type(s) exported successfully"}
+{"level":"info","message":"Starting roles export"}
+{"level":"info","message":"No custom roles were found in the Stack"}
+{"level":"info","message":"Starting workflow export"}
+{"level":"info","message":"Workflow workflow was exported successfully"}
+{"level":"info","message":"All the workflow have been exported successfully"}
+{"level":"info","message":"Starting entries export"}
+{"level":"info","message":"Starting export of entries of content_type - footer locale - es"}
+{"level":"info","message":"Exported entries of type footer locale es"}
+{"level":"info","message":"Starting export of entries of content_type - footer locale - en-us"}
+{"level":"info","message":"Exported entries of type footer locale en-us"}
+{"level":"info","message":"Starting export of entries of content_type - header locale - es"}
+{"level":"info","message":"Exported entries of type header locale es"}
+{"level":"info","message":"Starting export of entries of content_type - header locale - en-us"}
+{"level":"info","message":"Exported entries of type header locale en-us"}
+{"level":"info","message":"Starting export of entries of content_type - page locale - es"}
+{"level":"info","message":"Exported entries of type page locale es"}
+{"level":"info","message":"Starting export of entries of content_type - page locale - en-us"}
+{"level":"info","message":"Exported entries of type page locale en-us"}
+{"level":"info","message":"Entries exported successfully"}
+{"level":"info","message":"Starting labels export"}
+{"level":"info","message":"No labels found"}
+{"level":"info","message":"Starting marketplace app export"}
+{"level":"info","message":"Exporting Google Analytics app and it's config."}
+{"level":"info","message":"Exported Google Analytics app"}
+{"level":"info","message":"All the marketplace apps have been exported successfully"}
+{"level":"info","message":"The content of stack PrismaHealth has been exported successfully!"}
+{"level":"info","message":"The log for this is stored at /Users/anandhinagarajan/Documents/WelStreet/docs/contentStack/stacks/prismaHealth/logs/export"}
+{"level":"info","message":"Starting assets export"}
+{"level":"info","message":"No assets found"}
+{"level":"info","message":"Starting locale export"}
+{"level":"info","message":"Completed locale export"}
+{"level":"info","message":"Starting environment export"}
+{"level":"info","message":"All the environments have been exported successfully"}
+{"level":"info","message":"Starting extension export"}
+{"level":"info","message":"All the extensions have been exported successfully"}
+{"level":"info","message":"Starting webhooks export"}
+{"level":"info","message":"No webhooks found"}
+{"level":"info","message":"Starting Global Fields export"}
+{"level":"info","message":"Global Fields export completed successfully"}
+{"level":"info","message":"Starting content type export"}
+{"level":"info","message":"Content type(s) exported successfully"}
+{"level":"info","message":"Starting roles export"}
+{"level":"info","message":"No custom roles were found in the Stack"}
+{"level":"info","message":"Starting workflow export"}
+{"level":"info","message":"Workflow workflow was exported successfully"}
+{"level":"info","message":"All the workflow have been exported successfully"}
+{"level":"info","message":"Starting entries export"}
+{"level":"info","message":"Starting export of entries of content_type - footer locale - es"}
+{"level":"info","message":"Exported entries of type footer locale es"}
+{"level":"info","message":"Starting export of entries of content_type - footer locale - en-us"}
+{"level":"info","message":"Exported entries of type footer locale en-us"}
+{"level":"info","message":"Starting export of entries of content_type - header locale - es"}
+{"level":"info","message":"Exported entries of type header locale es"}
+{"level":"info","message":"Starting export of entries of content_type - header locale - en-us"}
+{"level":"info","message":"Exported entries of type header locale en-us"}
+{"level":"info","message":"Starting export of entries of content_type - page locale - es"}
+{"level":"info","message":"Exported entries of type page locale es"}
+{"level":"info","message":"Starting export of entries of content_type - page locale - en-us"}
+{"level":"info","message":"Exported entries of type page locale en-us"}
+{"level":"info","message":"Entries exported successfully"}
+{"level":"info","message":"Starting labels export"}
+{"level":"info","message":"No labels found"}
+{"level":"info","message":"Starting marketplace app export"}
+{"level":"info","message":"Exporting Google Analytics app and it's config."}
+{"level":"info","message":"Exported Google Analytics app"}
+{"level":"info","message":"All the marketplace apps have been exported successfully"}
+{"level":"info","message":"The content of stack PrismaHealth has been exported successfully!"}
+{"level":"info","message":"The log for this is stored at /Users/anandhinagarajan/Documents/WelStreet/docs/contentStack/stacks/prismaHealth/logs/export"}
+{"level":"info","message":"Starting assets export"}
+{"level":"info","message":"No assets found"}
+{"level":"info","message":"Starting locale export"}
+{"level":"info","message":"Completed locale export"}
+{"level":"info","message":"Starting environment export"}
+{"level":"info","message":"All the environments have been exported successfully"}
+{"level":"info","message":"Starting extension export"}
+{"level":"info","message":"All the extensions have been exported successfully"}
+{"level":"info","message":"Starting webhooks export"}
+{"level":"info","message":"No webhooks found"}
+{"level":"info","message":"Starting Global Fields export"}
+{"level":"info","message":"Global Fields export completed successfully"}
+{"level":"info","message":"Starting content type export"}
+{"level":"info","message":"Content type(s) exported successfully"}
+{"level":"info","message":"Starting roles export"}
+{"level":"info","message":"No custom roles were found in the Stack"}
+{"level":"info","message":"Starting workflow export"}
+{"level":"info","message":"Workflow workflow was exported successfully"}
+{"level":"info","message":"All the workflow have been exported successfully"}
+{"level":"info","message":"Starting entries export"}
+{"level":"info","message":"Starting export of entries of content_type - footer locale - es"}
+{"level":"info","message":"Exported entries of type footer locale es"}
+{"level":"info","message":"Starting export of entries of content_type - footer locale - en-us"}
+{"level":"info","message":"Exported entries of type footer locale en-us"}
+{"level":"info","message":"Starting export of entries of content_type - header locale - es"}
+{"level":"info","message":"Exported entries of type header locale es"}
+{"level":"info","message":"Starting export of entries of content_type - header locale - en-us"}
+{"level":"info","message":"Exported entries of type header locale en-us"}
+{"level":"info","message":"Starting export of entries of content_type - page locale - es"}
+{"level":"info","message":"Exported entries of type page locale es"}
+{"level":"info","message":"Starting export of entries of content_type - page locale - en-us"}
+{"level":"info","message":"Exported entries of type page locale en-us"}
+{"level":"info","message":"Entries exported successfully"}
+{"level":"info","message":"Starting labels export"}
+{"level":"info","message":"No labels found"}
+{"level":"info","message":"Starting marketplace app export"}
+{"level":"info","message":"Exporting Google Analytics app and it's config."}
+{"level":"info","message":"Exported Google Analytics app"}
+{"level":"info","message":"All the marketplace apps have been exported successfully"}
+{"level":"info","message":"The content of stack PrismaHealth has been exported successfully!"}
+{"level":"info","message":"The log for this is stored at /Users/anandhinagarajan/Documents/WelStreet/docs/contentStack/stacks/prismaHealth/logs/export"}
+{"level":"info","message":"Starting assets export"}
+{"level":"info","message":"No assets found"}
+{"level":"info","message":"Starting locale export"}
+{"level":"info","message":"Completed locale export"}
+{"level":"info","message":"Starting environment export"}
+{"level":"info","message":"All the environments have been exported successfully"}
+{"level":"info","message":"Starting extension export"}
+{"level":"info","message":"All the extensions have been exported successfully"}
+{"level":"info","message":"Starting webhooks export"}
+{"level":"info","message":"No webhooks found"}
+{"level":"info","message":"Starting Global Fields export"}
+{"level":"info","message":"Global Fields export completed successfully"}
+{"level":"info","message":"Starting content type export"}
+{"level":"info","message":"Content type(s) exported successfully"}
+{"level":"info","message":"Starting roles export"}
+{"level":"info","message":"No custom roles were found in the Stack"}
+{"level":"info","message":"Starting workflow export"}
+{"level":"info","message":"Workflow workflow was exported successfully"}
+{"level":"info","message":"All the workflow have been exported successfully"}
+{"level":"info","message":"Starting entries export"}
+{"level":"info","message":"Starting export of entries of content_type - footer locale - es"}
+{"level":"info","message":"Exported entries of type footer locale es"}
+{"level":"info","message":"Starting export of entries of content_type - footer locale - en-us"}
+{"level":"info","message":"Exported entries of type footer locale en-us"}
+{"level":"info","message":"Starting export of entries of content_type - header locale - es"}
+{"level":"info","message":"Exported entries of type header locale es"}
+{"level":"info","message":"Starting export of entries of content_type - header locale - en-us"}
+{"level":"info","message":"Exported entries of type header locale en-us"}
+{"level":"info","message":"Starting export of entries of content_type - page locale - es"}
+{"level":"info","message":"Exported entries of type page locale es"}
+{"level":"info","message":"Starting export of entries of content_type - page locale - en-us"}
+{"level":"info","message":"Exported entries of type page locale en-us"}
+{"level":"info","message":"Entries exported successfully"}
+{"level":"info","message":"Starting labels export"}
+{"level":"info","message":"No labels found"}
+{"level":"info","message":"Starting marketplace app export"}
+{"level":"info","message":"Exporting Google Analytics app and it's config."}
+{"level":"info","message":"Exported Google Analytics app"}
+{"level":"info","message":"All the marketplace apps have been exported successfully"}
+{"level":"info","message":"The content of stack PrismaHealth has been exported successfully!"}
+{"level":"info","message":"The log for this is stored at /Users/anandhinagarajan/Documents/WelStreet/docs/contentStack/stacks/prismaHealth/logs/export"}
